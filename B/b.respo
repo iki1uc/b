@@ -1,1 +1,15 @@
-
+{
+  "id": "B",
+  "type": "RE-WARTE-STELLUNG",
+  "role": "TMP-REIT-ACHSE",
+  "nc": "NC6",
+  "usage": "multi",
+  "signature": "beta",
+  "tmp": {
+    "accept": true,
+    "work": true,
+    "stabilize": true,
+    "forward": true
+  },
+  "connect": ["E", "NC", "TMP"]
+}
