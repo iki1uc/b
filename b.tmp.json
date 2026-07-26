@@ -1,0 +1,5 @@
+{
+  "marker": "TMP-1",
+  "accept": ["TMP.room", "TMP.file", "TMP.matrix", "TMP.signal"],
+  "action": "B.handle"
+}
